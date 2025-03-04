@@ -6,7 +6,7 @@ import TimeTracker from "./TimeTracker";
 const Dashboard = () => {
   return (
     <main className="flex-1 bg-gray-100 p-8">
-      <h1 className="text-4xl font-bold mb-6">Dashboard</h1>
+      <h1 className="text-4xl font-bold mb-6">CodeTikki</h1>
       
       {/* Responsive Grid Layout */}
       <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
